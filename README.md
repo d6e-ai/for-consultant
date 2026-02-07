@@ -313,6 +313,13 @@ docker push ghcr.io/YOUR_GITHUB_USERNAME/my-d6e-stf:1.0.0
 
 ---
 
+## ステップ⑤ d6eでDockerイメージの使い方をAIに与える
+
+`d6e-ai/d6e-docker-stf-skills`のスキルに基づいたバイブコーディングを通じて、AI向けの説明書README.mdも作ります。
+その内容をコピーペーストでd6eのAIエージェントに伝えればOKです。
+
+---
+
 ## よくあるトラブルと解決法
 
 | 症状 | 原因 | 対処法 |
